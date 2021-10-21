@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{ \"token\": \"ABCD-EFGH-IJKL-MN12\"}"
+}

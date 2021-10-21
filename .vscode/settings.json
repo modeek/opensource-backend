@@ -1,0 +1,11 @@
+{
+	"git.ignoreLimitWarning": true,
+	"prettier.packageManager": "yarn",
+	"eslint.format.enable": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"eslint.packageManager": "yarn",
+	"eslint.enable": true
+}
